@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyDu": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Dati Andrea\\Documenti\\Caliel\\googlenode\\apprtc\\out\\app_engine\"  -d2"
+    }
+  }
+}

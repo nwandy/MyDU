@@ -1,0 +1,11 @@
+C:\Users\andy\source\repos\MyDu\bin\Debug\netcoreapp3.1\MyDu.exe
+C:\Users\andy\source\repos\MyDu\bin\Debug\netcoreapp3.1\MyDu.deps.json
+C:\Users\andy\source\repos\MyDu\bin\Debug\netcoreapp3.1\MyDu.runtimeconfig.json
+C:\Users\andy\source\repos\MyDu\bin\Debug\netcoreapp3.1\MyDu.runtimeconfig.dev.json
+C:\Users\andy\source\repos\MyDu\bin\Debug\netcoreapp3.1\MyDu.dll
+C:\Users\andy\source\repos\MyDu\bin\Debug\netcoreapp3.1\MyDu.pdb
+C:\Users\andy\source\repos\MyDu\obj\Debug\netcoreapp3.1\MyDu.csprojAssemblyReference.cache
+C:\Users\andy\source\repos\MyDu\obj\Debug\netcoreapp3.1\MyDu.AssemblyInfoInputs.cache
+C:\Users\andy\source\repos\MyDu\obj\Debug\netcoreapp3.1\MyDu.AssemblyInfo.cs
+C:\Users\andy\source\repos\MyDu\obj\Debug\netcoreapp3.1\MyDu.dll
+C:\Users\andy\source\repos\MyDu\obj\Debug\netcoreapp3.1\MyDu.pdb
